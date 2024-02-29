@@ -13,5 +13,5 @@ The aim of research in the Cloud Resilience Labs is to explore and develop innov
  field of distributed and integrated cloud systems. At the same time, the latest findings are taught in courses at the lab. 
 Several people are currently working on and researching resilient concepts, methods and tools for digital systems.
 
-![](../images/pbb.jpeg)
-![](../images/mgk.jpg)
+![](/_images/pbb.jpeg)
+![](/_images/mgk.jpg)
