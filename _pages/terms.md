@@ -1,27 +1,27 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2024-02-29
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+Ansprechpartner
+Prof. Dr. Matteo Große-Kampmann
+E-Mail: matteo.grosse-kampmann@hochschule-rhein-waal.de
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Anschrift
+Hochschule Rhein-Waal
+Fakultät Kommunikation und Umwelt
+47475 Kamp-Lintfort
+Friedrich-Heinrich-Allee 25
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+rechtliche Daten
+Die Hochschule Rhein-Waal ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch das Präsidium gesetzlich vertreten.
 
-### Log Files
+Dr. Oliver Locker-Grütjen, Präsident
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Zuständige Aufsichtsbehörde: Ministerium für Kultur und Wissenschaft (MKW), Völklinger Str. 49, 40221 Düsseldorf
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE815145426
