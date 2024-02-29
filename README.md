@@ -1,5 +1,8 @@
 
-# Academic Pages
+# Cloud Resilience Lab Website Repository
+
+This is the code for website of the Cloud Resilience Lab at Rhine-Waal University in Kamp-Lintfort. It is based on the wonderful Academic Pages GitHub Repository.
+
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
