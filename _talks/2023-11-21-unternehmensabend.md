@@ -12,4 +12,4 @@ Prof. Dr. Große-Kampmann gave some insights on future research regarding sustai
 This talk was held in German.
 
 The slides are available here:
-![](../files/KaLi-Unternehmensabend.pdf)
+![Slides](../files/KaLi-Unternehmensabend.pdf)
