@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Impressum"
 modified: 2024-02-29
 ---
 
