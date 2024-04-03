@@ -21,7 +21,7 @@ repository               : "cloudresiliencelab/cloudresiliencelab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "crl_primary.png"
   name             : "Cloud Resilience Lab"
   pronouns         : # example: "she/her"  
   bio              : "The Cloud Resilience Lab is a lab within the Rhine-Waal University of Applied Sciences"
