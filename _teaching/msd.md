@@ -14,7 +14,7 @@ The students:
 - analyze and evaluate the differences and special features of software development for mobile systems
 - know and differentiate between various activities, roles, challenges, risks and solution approaches in the creation, operation and maintenance of software systems in current mobile ecosystems
 - distinguish and compare different mobile ecosystems and can develop simple mobile applications
-- are able to develop application using Kotlin or Swift
+- are able to develop applications using Kotlin or Swift
 
 ## Contents
 The course provides a general overview of the topic of software development for mobile ecosystems and looks in particular at the basics of developing mobile systems, the basics of programming mobile user interfaces, the basics of platform-specific concepts, backend-based applications / communication with services, platform-specific in-depth programming and cross-platform strategies and technologies. In addition to these basic concepts and principles, selected mobile and backend-as-a-service platforms will be presented. The following topics will be covered, among others: 
