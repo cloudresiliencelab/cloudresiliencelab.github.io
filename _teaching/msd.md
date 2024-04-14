@@ -7,7 +7,7 @@ venue: "Rhine-Waal University"
 date: 2024-02-29
 location: "Kamp-Lintfort, Germany"
 ---
-Prof. Dr.-Ing. Patrick-Benjamin Bök is responsible for teaching Mobile Software development in the Bachelor courses .
+Prof. Dr.-Ing. Patrick-Benjamin Bök is responsible for teaching Mobile Software Development in the Bachelor courses .
 
 ## Learning outcomes / competences
 The students:
