@@ -5,6 +5,7 @@ type: "Lecture"
 permalink: /teaching/oop
 venue: "Rhine-Waal University"
 date: 2024-02-29
+term: "Summer"
 location: "Kamp-Lintfort, Germany"
 ---
 
