@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/pds
 venue: "Rhine-Waal University"
 date: 2024-02-29
+term: "Winter"
 location: "Kamp-Lintfort, Germany"
 ---
 
