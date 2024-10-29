@@ -2,7 +2,7 @@
 title: "The Rings of Tracking: Evaluating Security and Privacy in the Smart Ring Ecosystem"
 collection: publications
 permalink: /publication/tracking-rings
-excerpt: ' This paper analyzes security and privacy of the Smart Ring Ecosystem'
+excerpt: 'This paper analyzes security and privacy of the Smart Ring Ecosystem'
 date: 2024-12-09
 venue: 'Workshop on AI for Cyber Threat Intelligence (WAITI) 2024'
 paperurl: ''

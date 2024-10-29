@@ -5,7 +5,7 @@ permalink: /publication/awareness-risk
 excerpt: ' This paper challenges the conventional assumption in cy-bersecurity that users act as rational actors.'
 date: 2024-08-06
 venue: 'The 6th International Conference on Science of Cyber Security - SciSec 2024'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3618257.3624795'
+paperurl: 'https://www.researchgate.net/publication/381854428_Exploring_the_Effects_of_Cybersecurity_Awareness_and_Decision-Making_Under_Risk'
 citation: 'Braun, O., Hörnemann, J., Pohlmann, N., Theis, D., Urban, T., Große-Kampmann, M. (2024 August). Exploring the Effects of Cybersecurity Awareness and Decision-Making Under Risk. In Proceedings of the 6th International Conference on Science of Cyber Security - SciSec 2024'
 ---
 
