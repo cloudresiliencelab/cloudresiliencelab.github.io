@@ -5,7 +5,7 @@ permalink: /publication/tracking-rings
 excerpt: 'This paper analyzes security and privacy of the Smart Ring Ecosystem'
 date: 2024-12-09
 venue: 'Workshop on AI for Cyber Threat Intelligence (WAITI) 2024'
-paperurl: '[Link to Paper](/files/RingsofTracking.pdf)'
+paperurl: 'files/RingsofTracking.pdf'
 citation: 'Ludwig, J., Moonsamy, V., Große-Kampmann, M. (2024 December). The Rings of Tracking: Evaluating Security and Privacy in the Smart Ring Ecosystem. In Proceedings of the Workshop on AI for Cyber Threat Intelligence (WAITI) 2024 - co-located with ACSAC 2024'
 ---
 

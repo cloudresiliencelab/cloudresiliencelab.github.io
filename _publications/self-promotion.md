@@ -1,11 +1,11 @@
 ---
-title: "Self-promotion with a Chance of Warnings]{Self-promotion with a Chance of Warnings: Exploring Cybersecurity Communication Among Government Institutions on LinkedIn"
+title: "Self-promotion with a Chance of Warnings: Exploring Cybersecurity Communication Among Government Institutions on LinkedIn"
 collection: publications
 permalink: /publication/self-promotion
 excerpt: 'This paper explores how cybersecurity government bodies communicate on LinkedIn'
 date: 2024-12-04
 venue: 'International Conference on Mobile and Ubiquitous Multimedia (MUM 24), December 1--4, 2024, Stockholm'
-paperurl: 'https://www.researchgate.net/publication/385619614_Self-promotion_with_a_Chance_of_Warnings_Exploring_Cybersecurity_Communication_Among_Government_Institutions_on_LinkedIn'
+paperurl: '/files/comms.pdf'
 citation: 'Wilke, A., Nold, J., Braun, O., Meißner, F., Große-Kampmann, M. Self-promotion with a Chance of Warnings]{Self-promotion with a Chance of Warnings: Exploring Cybersecurity Communication Among Government Institutions on LinkedIn. In Proceedings of the International Conference on Mobile and Ubiquitous Multimedia (MUM 24), December 1--4, 2024, Stockholm'
 ---
 
