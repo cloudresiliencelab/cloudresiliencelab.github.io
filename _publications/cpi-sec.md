@@ -5,7 +5,7 @@ permalink: /publication/cpi-sec
 excerpt: ' This paper describes challenges and opportunities in cognitive personal informatics'
 date: 2024-04-12
 venue: 'CogPI24: The CHI 24 Workshop on Future of Cognitive Personal Informatics'
-paperurl: 'https://www.researchgate.net/publication/381913902_Envisioning_Secure_and_Private_6G-Enabled_Cognitive_Personal_Informatics'
+paperurl: 'files/cpi.pdf'
 citation: 'Triesch, A., Hörnemann, J., Urban, T., Große-Kampmann, M. (2024 May).Envisioning Secure and Private 6G-Enabled Cognitive Personal Informatics. In Proceedings of the CHI 24 Workshop on Future of Cognitive Personal Informatics'
 ---
 
